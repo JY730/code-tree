@@ -7,3 +7,7 @@ let b = Number(input[1])
 if(a < b){
     console.log(b - a)
 } 
+
+if(a > b){
+    console.log(a - b)
+}
